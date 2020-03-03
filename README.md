@@ -12,7 +12,9 @@ Welcome to ChapterTree, an amazing app that allows you to seamlessly manage your
 This application was programmed completely in Google's Flutter Framework.
 
 # Portfolio
-<img src="assets/instructionImages/1.png" width="430" /><img src="assets/instructionImages/2.png" width="430" />  <img src="assets/instructionImages/3.png" width="430" /><img src="assets/instructionImages/4.png" width="430" /><img src="assets/instructionImages/5.png" width="430" /><img src="assets/instructionImages/15.png" width="430" /><img src="assets/instructionImages/6.png" width="430" /><img src="assets/instructionImages/7.png" width="430" /><img src="assets/instructionImages/8.png" width="430" /><img src="assets/instructionImages/9.png" width="430" /><img src="assets/instructionImages/10.png" width="430" /><img src="assets/instructionImages/11.png" width="430" /><img src="assets/instructionImages/12.png" width="430" /><img src="assets/instructionImages/13.png" width="430" /><img src="assets/instructionImages/16.png" width="430" /><img src="assets/instructionImages/14.png" width="430" />
+<img src="assets/instructionImages/1.png" width="430" /><img src="assets/instructionImages/2.png" width="430" />  <img src="assets/instructionImages/3.png" width="430" /><img src="assets/mockups/socialIntegration.png" />
+<img src="assets/instructionImages/4.png" width="430" /><img src="assets/instructionImages/5.png" width="430" /><img src="assets/instructionImages/15.png" width="430" /><img src="assets/instructionImages/6.png" width="430" /><img src="assets/instructionImages/7.png" width="430" /><img src="assets/instructionImages/8.png" width="430" /><img src="assets/instructionImages/9.png" width="430" /><img src="assets/instructionImages/10.png" width="430" /><img src="assets/instructionImages/11.png" width="430" /><img src="assets/instructionImages/12.png" width="430" /><img src="assets/instructionImages/13.png" width="430" /><img src="assets/instructionImages/16.png" width="430" /><img src="assets/instructionImages/14.png" width="430" /><img src="assets/instructionImages/17.png" width="430" />
+
 
 <br/>
 <img src="assets/images/technologies.png" />
@@ -34,7 +36,6 @@ This application was programmed completely in Google's Flutter Framework.
 - Beautiful dashboard to view, sign-up, remove local and national events
   - Harnesses the power of cloud data persistence 
 - Social Media Integration to share on many platforms such as Facebook, Twitter, Messenger, Messages, and much more!
-<img src="assets/mockups/socialIntegration.png" />
 - Dynamic calendar to add events seamlessly 
   - Only chapter leaders can track attendance 
 - Google Maps API integration to view user's location event destination through markers
