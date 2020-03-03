@@ -113,7 +113,7 @@ class _myChapterScreen extends State<myChapterScreen> {
                   title: Row(
                     children: <Widget>[
                       Expanded(
-                          child: isOfficer ? Text(
+                          child: document['isOfficer'] ? Text(
                             '⭐ ${document['full_name']}',
                             style: TextStyle(color: MyApp.blackTextColor),
                           ) : Text(

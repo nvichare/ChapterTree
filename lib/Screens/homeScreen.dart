@@ -383,8 +383,10 @@ class myHomeState extends State<myHomeScreen> {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
+        title: Text("Add an Event"),
         content: TextField(
           controller: _textEventController,
+          cursorColor: Colors.blue,
         ),
         actions: <Widget>[
           FlatButton(
