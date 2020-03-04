@@ -6,6 +6,20 @@ FHS Mobile App Development
 <br/>
 Date of submission: 2/28/20
 
+# Table of Contents 
+* [Overview](https://github.com/msoham123/ChapterTree#overview ) 
+* [Portfolio](https://github.com/msoham123/ChapterTree#portfolio)
+* [Brainstorming and Planning](https://github.com/msoham123/ChapterTree#brainstorming-and-planning)
+* [Core Features](https://github.com/msoham123/ChapterTree#core-features) 
+* [Getting Started](https://github.com/msoham123/ChapterTree#getting-started)
+  * [XCode Deployment](https://github.com/msoham123/ChapterTree#xcode-deployment)
+  * [IntelliJ Deployment](https://github.com/msoham123/ChapterTree#intellij-deployment)
+* [Technologies and API's used](https://github.com/msoham123/ChapterTree#technologies-and-apis-used)
+* [License](https://github.com/msoham123/ChapterTree#license)
+* [Copyright Inforamtion](https://github.com/msoham123/ChapterTree#copyright-information)
+* [Developers](https://github.com/msoham123/ChapterTree#developers)
+
+
 # Overview  
 Welcome to ChapterTree, an amazing app that allows you to seamlessly manage your chapters! ChapterTree is designed to provide users with a platform to record event information, track chapter attendance, communicate with other FBLA members, talk with our intelligent ChatBot, and learn more about FBLA. Additionally, the app implements API's that enhance the user experience by communicating with our database, implementing google maps, and providing a real time data flow that dynamically updates information that the user needs.  
 
@@ -135,6 +149,9 @@ This application was programmed completely in Google's Flutter Framework.
 - [Nodemailer](https://nodemailer.com/about/)
 - [Dialogflow](https://dialogflow.cloud.google.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
+- [Google Maps API](https://cloud.google.com/maps-platform/)
+- [Token Service API](https://developers.google.com/identity/toolkit/reference/securetoken/rest/v1/token)
+- [Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
 - [Firebase Authentication](https://firebase.google.com/products/auth)
 - [Firebase Cloud Firestore](https://firebase.google.com/products/firestore)
 - [Firebase Cloud Storage](https://firebase.google.com/products/storage)
